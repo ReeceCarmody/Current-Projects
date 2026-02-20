@@ -1,17 +1,23 @@
 # Current-Projects
-Throughout my final semester at Colorado State University I am working on multiple projects. Last updated on 1/27/2026.
+Throughout my final semester at Colorado State University I am working on multiple projects.
 
 **1. CSU Men's Basketball Lineup Analysis**
+*Last updated on 2/19/2026.*
 * Working alongside a professor, graduate student, and a team of undergraduate students to assist the men's basketball analytics coach with lineup analysis.
 * My personal analysis has involved one hot encoding online data to perform ridge regression and determine players with optimal turnover stats.
-* Further plans to analyze these turnover stats and determine pairs of players that can help defensive performance.
-* Potentially involve skill curves and other stats to ultimately create an interactive Shiny App to assist coaching.
+* Manually created skill curves to analyze how player's True Shooting Percentage changes with more Usage.
+* Found results from the skill curves that encourage/discourage playtime for various players.
+* An initial memo was sent to the CSU Men's Basketball coach and analytics lead.
 
 **2. Capstone: Forecast Housing Prices**
-* Plans to use public Zillow and US Census data to predict housing prices based on various metrics.
-* Multiple models will be used and incorporated to a final Power BI dashboard.
+*Last updated on 2/19/2026.*
+* Public assessor data for Larimer County (Colorado) is being used to predict housing prices based on various metrics.
+* Data cleaning was performed to remove repitive features, rename columns, filter features, create new variables, and remove NA values.
+* Initial exploratory analysis - such as correlation plots and feature importance through LASSO & SHAP - is being developed.
+* Plans for multiple models to be used and incorporated to a final Power BI dashboard.
 
 **3. Honors Thesis: Overtourism and Livability - Rome as a Case Study**
+*Last updated on 1/27/2026.*
 * Utilize public data such as ISTAT, Eurostat, and other online sources to determine the impact of tourism on Rome.
 * Plans to potentially integrate other major European tourist cities into the study.
 * After model creation, results will be integrated into a Power BI dashboard that allows users to analyze the effect of increased tourism on prominent European cities.
